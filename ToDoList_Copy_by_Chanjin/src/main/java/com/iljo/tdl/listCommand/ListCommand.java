@@ -20,6 +20,8 @@ public class ListCommand implements TdlCommand {
 		//int td_status = Integer.parseInt(requset.getParameter("td_status"));
 	    //int ct_id = Integer.parseInt(requset.getParameter("ct_id"));		
 		
+		
+		//낭러ㅣㄴ어리ㅓㄴ이ㅏ러ㅣㄴ어ㅣ러ㅣㅏ이ㅏ너ㅣ
 		String user_id = "fk1119";
 		int td_prior = 0;
 		int td_status = 0;
