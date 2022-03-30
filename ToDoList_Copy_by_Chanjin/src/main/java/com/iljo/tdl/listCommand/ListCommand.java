@@ -28,7 +28,7 @@ public class ListCommand implements TdlCommand {
 	    
 	    
 	    //연습중
-	    //연습중
+
 	    
 	    
 	    
