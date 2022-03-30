@@ -13,7 +13,7 @@ public class PriorCommand implements TdlCommand {
 		// TODO Auto-generated method stub
 		String td_id = request.getParameter("td_id");
 		String td_prior = request.getParameter("td_prior");
-//hkjhkhkhkjhkh
+
 		TodoUpdateDao dao = new TodoUpdateDao();
 		dao.prior(td_id, td_prior);
 	}
