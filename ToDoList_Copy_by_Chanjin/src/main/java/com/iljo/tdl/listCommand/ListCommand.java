@@ -1,5 +1,4 @@
 package com.iljo.tdl.listCommand;
-
 import java.util.ArrayList;
 
 import javax.servlet.http.HttpServletRequest;
@@ -25,6 +24,17 @@ public class ListCommand implements TdlCommand {
 		int td_status = 0;
 	    int ct_id = 1;
 		
+	    
+	    
+	    
+	    //연습중
+
+	    
+	    
+	    
+	    
+	    
+	    
 		
 		ArrayList<ToDoDto> dtos = null;
 		ListDao dao = new ListDao();
